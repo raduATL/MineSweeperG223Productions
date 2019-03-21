@@ -1,0 +1,10 @@
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\obj\Debug\Minesweeper.MinesweeperForm.resources
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\obj\Debug\MineSweeperForm.Properties.Resources.resources
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\obj\Debug\MineSweeperForm.csproj.GenerateResource.Cache
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\obj\Debug\MineSweeperForm.csproj.CoreCompileInputs.cache
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\bin\Debug\MineSweeperForm.exe.config
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\bin\Debug\MineSweeperForm.exe
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\bin\Debug\MineSweeperForm.pdb
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\obj\Debug\MineSweeperForm.exe
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\obj\Debug\MineSweeperForm.pdb
+C:\Users\rmamut\source\repos\MineSweeperForm\MineSweeperForm\obj\Debug\MineSweeperForm.csprojResolveAssemblyReference.cache
